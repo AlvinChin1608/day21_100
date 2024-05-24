@@ -130,8 +130,11 @@ The best way to describe this 👇
 Let's say we only want to bring 2-4, we would put it [2:5]
 
 [1,2,3,4,5]
+
 ^ ^ ^ ^ ^ ^
+
 | | | | | |
+
 0 1 2 3 4 5
 
 and let's say we only want 1, 3, 5, we would put it [::2] so it skips every step of 2
