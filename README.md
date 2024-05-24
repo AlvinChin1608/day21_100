@@ -65,23 +65,17 @@ In this example, Dog inherits from Animal and gains access to its name attribute
 
 **Terminology:**
 
-**- Inheritance:** The act of creating a new class based on an existing class.
-
-**- Subclass:** A class that inherits from another class (derived class).
-
-**- Superclass:** A class that is inherited from (base class).
-
-**- Is-A Relationship:** A derived class represents a more specific type of the base class. In simpler terms, objects of the derived class can be considered as a special kind of object of the base class (e.g., a RacingCar is a type of Car).
+- Inheritance: The act of creating a new class based on an existing class.
+- Subclass: A class that inherits from another class (derived class).
+- Superclass: A class that is inherited from (base class).
+- Is-A Relationship: A derived class represents a more specific type of the base class. In simpler terms, objects of the derived class can be considered as a special kind of object of the base class (e.g., a RacingCar is a type of Car).
 
 **Benefits of Inheritance:**
 
-**- Code Reuse:** You can avoid writing the same code repeatedly by inheriting from a base class.
-
-**- Extensibility:** Derived classes can add new functionality without modifying the base class.
-
-**- Maintainability:** Changes made to the base class are automatically reflected in derived classes unless overridden.
-
-**- Polymorphism:** Derived classes can provide different implementations for inherited methods, allowing for flexible behavior.
+- Code Reuse: You can avoid writing the same code repeatedly by inheriting from a base class.
+- Extensibility: Derived classes can add new functionality without modifying the base class.
+- Maintainability: Changes made to the base class are automatically reflected in derived classes unless overridden.
+- Polymorphism: Derived classes can provide different implementations for inherited methods, allowing for flexible behavior.
 
 -----------------------------
 
