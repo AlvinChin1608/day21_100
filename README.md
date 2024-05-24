@@ -127,10 +127,9 @@ reversed_list = my_list[::-1]  # Output: [5, 4, 3, 2, 1]
 ```
 The best way to describe this 👇
 
-Let's say we only want to print 2-4, we would put it [2:5]
+Let's say we only want to print 2-4, we would put it [1:4]
 ```python
 [1,2,3,4,5]
-^ ^ ^ ^ ^ ^
 | | | | | |
 0 1 2 3 4 5
 ```
